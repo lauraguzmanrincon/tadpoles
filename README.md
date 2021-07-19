@@ -10,7 +10,7 @@ To reproduce the example below, run `main.R` or run:
 ```
 library(data.table)
 library(ggplot2)
-source("FunctionstadpoleFn.R")
+source("Functions/tadpoleFn.R")
 
 load("Data/DataForTadpole.RData")
 tadpoleFn(dataSource = dataExample, dayToPlot = 14, sizePole = 14, dotFill = "IMD")
