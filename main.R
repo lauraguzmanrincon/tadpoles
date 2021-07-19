@@ -1,7 +1,8 @@
 
 library(data.table)
 library(ggplot2)
-source("tadpoleFn.R")
+source("Functions/tadpoleFn.R")
 
-load("DataForTadpole.RData")
+load("Data/DataForTadpole.RData")
 tadpoleFn(dataSource = dataExample, dayToPlot = 14, sizePole = 14, dotFill = "IMD")
+
