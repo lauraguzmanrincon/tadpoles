@@ -9,3 +9,10 @@ To reproduce example, run `main.R`.
 (https://octodex.github.com/images/yaktocat.png)
 
 (https://github.com/lauraguzmanrincon/tadpoles/blob/main/ExampleTadPole.jpg)
+
+<img
+src=“ExampleTadPole.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
