@@ -8,4 +8,4 @@ To reproduce example, run `main.R`.
 ![Image of Yaktocat]
 (https://octodex.github.com/images/yaktocat.png)
 
-(ExampleTadPole.png)
+(https://github.com/lauraguzmanrincon/tadpoles/blob/main/ExampleTadPole.jpg)
